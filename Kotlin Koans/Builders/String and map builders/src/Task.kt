@@ -1,6 +1,11 @@
 import java.util.HashMap
+import javax.swing.UIManager.put
 
-/* TODO */
+fun <K, V> buildMutableMap(build: HashMap<K, V>.() -> Unit): Map<K, V> {
+    val map = HashMap<K,V>()
+    map.build()
+    return map
+}
 
 fun usage(): Map<Int, String> {
     return buildMutableMap {
