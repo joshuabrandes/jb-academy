@@ -75,5 +75,8 @@
     <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.10" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="5e5ddca3-23da-414d-b3b2-8b48ff3abc47" />
+  </component>
   <component name="TestModuleProperties" production-module="Kotlin_Koans.Introduction-Triple-quoted_strings.main" />
 </module>

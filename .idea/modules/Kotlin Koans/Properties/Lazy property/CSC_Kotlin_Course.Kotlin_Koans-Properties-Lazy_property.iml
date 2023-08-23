@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Kotlin Koans-Properties-Lazy property" external.linked.project.path="$MODULE_DIR$/../../../../../Kotlin Koans/Properties/Lazy property" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="CSC_Kotlin_Course" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Properties/Lazy property">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Properties/Lazy property/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Properties/Lazy property/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Properties/Lazy property/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="7f21dbc8-9be9-4575-8708-09213ccda083" />
+  </component>
+</module>

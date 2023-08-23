@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Kotlin Koans-Collections-Fold and reduce" external.linked.project.path="$MODULE_DIR$/../../../../../Kotlin Koans/Collections/Fold and reduce" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="CSC_Kotlin_Course" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Collections/Fold and reduce">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Collections/Fold and reduce/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Collections/Fold and reduce/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Collections/Fold and reduce/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="ad37e9bc-ebe6-4cdd-ac0a-b5c0f4bc6c13" />
+  </component>
+</module>

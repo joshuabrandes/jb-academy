@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Kotlin Koans-Builders-The function apply" external.linked.project.path="$MODULE_DIR$/../../../../../Kotlin Koans/Builders/The function apply" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="CSC_Kotlin_Course" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Builders/The function apply">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Builders/The function apply/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Builders/The function apply/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Builders/The function apply/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="a66b75fa-cc3a-4d12-92eb-22db6e1514b6" />
+  </component>
+</module>

@@ -75,5 +75,8 @@
     <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.10" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="7be39f12-264c-4a29-a991-08bf01c45c25" />
+  </component>
   <component name="TestModuleProperties" production-module="Kotlin_Koans.Conventions-Comparison.main" />
 </module>

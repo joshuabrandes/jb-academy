@@ -75,5 +75,8 @@
     <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.10" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="4a5163c0-f77f-4486-87fb-5768e4234ded" />
+  </component>
   <component name="TestModuleProperties" production-module="Kotlin_Koans.Classes-Extension_functions.main" />
 </module>

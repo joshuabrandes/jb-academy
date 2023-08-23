@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Kotlin Koans-Introduction-Hello, world" external.linked.project.path="$MODULE_DIR$/../../../../../Kotlin Koans/Introduction/Hello, world" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="CSC_Kotlin_Course" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Introduction/Hello, world">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Introduction/Hello, world/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Introduction/Hello, world/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Kotlin Koans/Introduction/Hello, world/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="f2842709-0e99-4455-a62c-3b25d39cdde7" />
+  </component>
+</module>

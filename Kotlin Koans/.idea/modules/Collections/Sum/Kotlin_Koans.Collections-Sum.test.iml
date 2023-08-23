@@ -75,5 +75,8 @@
     <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.10" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="0a575617-8576-4cf1-a378-379d1a9bc398" />
+  </component>
   <component name="TestModuleProperties" production-module="Kotlin_Koans.Collections-Sum.main" />
 </module>

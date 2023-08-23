@@ -25,3 +25,9 @@ W
 'Builders/The function apply/src/Task.kt,1\5\15765e35929b0e57025a0cb0a2596aee476c7cfc
 R
 "Builders/Html builders/src/data.kt,4\4\44ce7d58279e18c9d187121c9b5a35707c85e346
+U
+%Introduction/Hello, world/src/Task.kt,5/b/5b75ff27305d7683fbfd4e5aad10e794e68b6fca
+\
+,Builders/Builders implementation/src/Task.kt,8/e/8e94fbc6c5c5183e28896f6565735f67964f5af8
+V
+&Generics/Generic functions/src/Task.kt,7/7/77d4a0fa3235b66b33027bedb54a811202c9cba5
